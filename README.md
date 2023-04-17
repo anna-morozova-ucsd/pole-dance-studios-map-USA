@@ -1,6 +1,7 @@
 A map of pole dance studios in the USA using Plotly Dash and Mapbox.  
 
-Create an account at https://www.mapbox.com/ to generate and paste your token in the code. You can also use free mapbox styles without token, but resolution is worse. 
+Create an account at https://www.mapbox.com/ to generate and paste your token in the code. You can also use free mapbox styles without token, but resolution is worse.
+Find more info about mabox styles here https://plotly.com/python/mapbox-layers/
 
 The dataset compiled using Places API from Google Maps Platform. The dataset is not 100% accurate.  
 
